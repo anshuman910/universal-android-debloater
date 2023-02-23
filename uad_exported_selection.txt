@@ -1,0 +1,3 @@
+com.finshell.fin
+com.glance.internet
+com.heytap.browser
